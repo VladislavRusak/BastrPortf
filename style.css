@@ -9,9 +9,11 @@ header {
 
 section {
     display: inline-block;
+    background-color: gray;
 }
 
 .logo {
     border-radius: 100%;
-    background-image: 'person-02.png'
+    height: 300px;
+    width: 300px;
 }
