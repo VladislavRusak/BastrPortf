@@ -1,0 +1,17 @@
+header {
+    height: 150px;
+    
+    background: rgb(65,109,25);
+    background: linear-gradient(180deg, rgba(65,109,25,1) 
+    30%, rgba(62,113,35,0.8855917366946778) 
+    50%, rgba(0,212,255,0) 100%);
+}
+
+section {
+    display: inline-block;
+}
+
+.logo {
+    border-radius: 100%;
+    background-image: 'person-02.png'
+}
